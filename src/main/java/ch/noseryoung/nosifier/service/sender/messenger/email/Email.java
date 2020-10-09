@@ -1,4 +1,4 @@
-package ch.noseryoung.nosifier.service.sender.messenger;
+package ch.noseryoung.nosifier.service.sender.messenger.email;
 
 import ch.noseryoung.nosifier.service.sender.Channel;
 
